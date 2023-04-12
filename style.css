@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+section{
+    height: 1080px;
+    width: 100%;
+}
+.top-area{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+   
+}
+h2{
+    font-size: 50px;  
+}
+h3{
+    font-size: 40px;
+}
+.name-highlight{
+    color: rgb(242, 103, 126);
+}
+p{
+    padding: 2%;
+    color: dimgrey;
+    font-size: 17px;
+    margin-bottom: 5%;
+}
+.top-part{
+    width: 40%;
+    float: left;
+    text-align: justify;
+}
+.top-part img{
+    width: 95%;
+    margin-top: 30%;
+    margin-right: 15%;
+}
+.text-align1{
+    margin: 20% 0% 0% 15%;
+ }
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-left: 13px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.mid-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 950px;
+}
+.middle-part{
+    width: 40%;
+    float: left;
+    text-align: justify;
+}
+.middle-part img{
+    width: 90%;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+.text-align2{
+    margin: 15% 0% 0% 10%;
+ }
+ .work-area{
+    height: 500px;
+    background-repeat: no-repeat;
+    
+ }
+ .work{
+    text-align: center;
+    margin-bottom: 6%;
+ }
+ .work-part{
+    width: 100%;
+    height: 750px;
+    background-image: url(images/latest-work-bg.png);
+    background-position: right;
+ }
+ .work-part img{
+    width: 25%;
+ }
+ .img1{
+    margin-left: 10%;
+ }
+ .img2{
+    margin: 0% 2%;
+ }
+ .img3{
+    margin-right: 10%;
+ }
+ .bottom-area{
+    height: 700px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+ }
+ .footer-part{
+    text-align: center;
+ }
+ .client{
+    padding-top: 7%;
+    padding-bottom: 3%;
+ }
+ .text{
+    color: dimgray;
+ }
+ .text1{
+    font-size: 20px;
+    color: black;
+    margin-left: 33%;
+    margin-right: 33%;
+ }
+ .contact{
+    text-align: center;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    border-radius: 8px;
+    padding: 5px 40px;
+ }
+ .message{
+    color: white;
+    font-size: 20px;
+ }
+ .mail{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+ }
+ footer p{
+    text-align: center;
+    font-size: 12px;
+ }
